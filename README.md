@@ -46,10 +46,28 @@ The parts of the legal system that are really systems problems: cost, speed and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&hide_border=true&langs_count=6&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=NatikChhabra&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NatikChhabra&hide_border=true&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=NatikChhabra&hide_border=true&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=NatikChhabra&hide_border=true&theme=default" alt="GitHub streak"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
 
