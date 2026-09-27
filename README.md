@@ -23,7 +23,6 @@ Class 12 student in Bilaspur, India. Applying to read Law in the UK for 2027 ent
 | ⚖️&nbsp;**[LexCrisis](https://github.com/NatikChhabra/LexCrisis)** | An OpenEnv reinforcement-learning benchmark that trains agents to run legal operations: conflict-safe client intake, privilege review under litigation pressure, and litigation incident command, all scored by deterministic verifiers. My Meta hackathon submission. [**Live&nbsp;demo&nbsp;→**](https://huggingface.co/spaces/Natik22may/LexCrisis) | Python · PyTorch · FastAPI · Docker |
 | 🏃&nbsp;**[Run&nbsp;Addict](https://github.com/NatikChhabra/Run-Addict)** | A mobile-first PWA for verified running challenges, with Strava OAuth sync, anti-cheat review, leaderboards, rewards and an admin fulfilment console. [**Live&nbsp;→**](https://natikchhabra.github.io/Run-Addict/) | JavaScript · PWA · Strava API |
 | 🖥️&nbsp;**[homelab](https://github.com/NatikChhabra/homelab)** | The config for my home server: 20+ Docker Compose services (media, photos, passwords, DNS filtering, monitoring), plus audit and backup scripts and a pre-commit secret scanner. | Docker · Bash · PowerShell |
-| ✨&nbsp;**[Numen](https://github.com/NatikChhabra/Comming-soon-website)** | The coming-soon and waitlist site for Numen, a local-first personal AI. [**numen.site&nbsp;→**](https://numen.site) | React · TanStack · Supabase |
 | 🧓&nbsp;**[ElderGuard](https://github.com/NatikChhabra/-sentinel-Elderguard)** | An Android safety app for elderly people living alone: accelerometer fall detection, emergency alerts and medication tracking. Built for Stonehill Techno Fest 2026. | Java · Android |
 
 ### 💡 What I'm interested in
@@ -35,8 +34,6 @@ The parts of the legal system that are really systems problems: cost, speed and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
