@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Natik%20Chhabra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Law%20%C3%97%20Code%20%C3%97%20Systems&descAlignY=58&descSize=18" width="100%" alt="Natik Chhabra banner"/>
 
-<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+RL+benchmarks+for+legal+ops+%E2%9A%96%EF%B8%8F;Meta+PyTorch+OpenEnv+Hackathon+finalist+%F0%9F%8F%86;Shipping+PWAs%2C+Android+apps+%26+a+20%2B+service+homelab+%F0%9F%96%A5%EF%B8%8F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
+<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=RL+benchmarks+for+legal+operations+%E2%9A%96%EF%B8%8F;Meta+PyTorch+OpenEnv+Hackathon+finalist+%F0%9F%8F%86;PWAs+%C2%B7+Android+%C2%B7+a+20%2B+service+homelab+%F0%9F%96%A5%EF%B8%8F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-natikchhabra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natikchhabra/)
 [![LexCrisis demo](https://img.shields.io/badge/LexCrisis-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/LexCrisis)
@@ -20,11 +20,11 @@ Class 12 student in Bilaspur, India. Applying to read Law in the UK for 2027 ent
 
 | Project | What it is | Stack |
 |---|---|---|
-| ⚖️ **[LexCrisis](https://github.com/NatikChhabra/LexCrisis)** | An OpenEnv reinforcement-learning benchmark that trains agents to run legal operations: conflict-safe client intake, privilege review under litigation pressure, and litigation incident command, all scored by deterministic verifiers. My Meta hackathon submission. [**Live demo →**](https://huggingface.co/spaces/Natik22may/LexCrisis) | Python · PyTorch · FastAPI · Docker |
-| 🏃 **[Run Addict](https://github.com/NatikChhabra/Run-Addict)** | A mobile-first PWA for verified running challenges, with Strava OAuth sync, anti-cheat review, leaderboards, rewards and an admin fulfilment console. [**Live →**](https://natikchhabra.github.io/Run-Addict/) | JavaScript · PWA · Strava API |
-| 🖥️ **[homelab](https://github.com/NatikChhabra/homelab)** | The config for my home server: 20+ Docker Compose services (media, photos, passwords, DNS filtering, monitoring), plus audit and backup scripts and a pre-commit secret scanner. | Docker · Bash · PowerShell |
-| ✨ **[Numen](https://github.com/NatikChhabra/Comming-soon-website)** | The coming-soon and waitlist site for Numen, a local-first personal AI. [**numen.site →**](https://numen.site) | React · TanStack · Supabase |
-| 🧓 **[ElderGuard](https://github.com/NatikChhabra/-sentinel-Elderguard)** | An Android safety app for elderly people living alone: accelerometer fall detection, emergency alerts and medication tracking. Built for Stonehill Techno Fest 2026. | Java · Android |
+| ⚖️&nbsp;**[LexCrisis](https://github.com/NatikChhabra/LexCrisis)** | An OpenEnv reinforcement-learning benchmark that trains agents to run legal operations: conflict-safe client intake, privilege review under litigation pressure, and litigation incident command, all scored by deterministic verifiers. My Meta hackathon submission. [**Live&nbsp;demo&nbsp;→**](https://huggingface.co/spaces/Natik22may/LexCrisis) | Python · PyTorch · FastAPI · Docker |
+| 🏃&nbsp;**[Run&nbsp;Addict](https://github.com/NatikChhabra/Run-Addict)** | A mobile-first PWA for verified running challenges, with Strava OAuth sync, anti-cheat review, leaderboards, rewards and an admin fulfilment console. [**Live&nbsp;→**](https://natikchhabra.github.io/Run-Addict/) | JavaScript · PWA · Strava API |
+| 🖥️&nbsp;**[homelab](https://github.com/NatikChhabra/homelab)** | The config for my home server: 20+ Docker Compose services (media, photos, passwords, DNS filtering, monitoring), plus audit and backup scripts and a pre-commit secret scanner. | Docker · Bash · PowerShell |
+| ✨&nbsp;**[Numen](https://github.com/NatikChhabra/Comming-soon-website)** | The coming-soon and waitlist site for Numen, a local-first personal AI. [**numen.site&nbsp;→**](https://numen.site) | React · TanStack · Supabase |
+| 🧓&nbsp;**[ElderGuard](https://github.com/NatikChhabra/-sentinel-Elderguard)** | An Android safety app for elderly people living alone: accelerometer fall detection, emergency alerts and medication tracking. Built for Stonehill Techno Fest 2026. | Java · Android |
 
 ### 💡 What I'm interested in
 
@@ -47,14 +47,14 @@ The parts of the legal system that are really systems problems: cost, speed and 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NatikChhabra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/main/profile-summary-card-output/default/3-stats.svg"/>
+  <img width="49%" src="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&hide_border=true&langs_count=6&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatikChhabra&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/main/profile-summary-card-output/default/2-most-commit-language.svg"/>
+  <img width="49%" src="https://raw.githubusercontent.com/NatikChhabra/NatikChhabra/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most-committed languages"/>
 </picture>
 
 <picture>
