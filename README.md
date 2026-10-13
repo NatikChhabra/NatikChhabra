@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Natik%20Chhabra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Law%20%C3%97%20Code%20%C3%97%20Systems&descAlignY=58&descSize=18" width="100%" alt="Natik Chhabra banner"/>
 
-<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=RL+benchmarks+for+legal+operations+%E2%9A%96%EF%B8%8F;Meta+PyTorch+OpenEnv+Hackathon+finalist+%F0%9F%8F%86;PWAs+%C2%B7+Android+%C2%B7+a+20%2B+service+homelab+%F0%9F%96%A5%EF%B8%8F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
+<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=Research%3A+which+AI+does+writing+sound+like%3F+%F0%9F%93%84;RL+benchmarks+for+legal+operations+%E2%9A%96%EF%B8%8F;Meta+PyTorch+OpenEnv+Hackathon+finalist+%F0%9F%8F%86;PWAs+%C2%B7+Android+%C2%B7+a+20%2B+service+homelab+%F0%9F%96%A5%EF%B8%8F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-natikchhabra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natikchhabra/)
 [![LexCrisis demo](https://img.shields.io/badge/LexCrisis-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/LexCrisis)
@@ -15,6 +15,18 @@
 Class 12 student in Bilaspur, India. Applying to read Law in the UK for 2027 entry, and building the tools that field is being rebuilt with.
 
 🏆 **Round 1 qualifier, Meta PyTorch OpenEnv Hackathon × Scaler School of Technology** (April 2026): one of roughly 800 teams to reach the finale from over 31,000 registrations.
+
+### 📄 Research
+
+**[Sounding Like Which AI? Machine-Style Overlap of arXiv Abstracts with Language Models of Different Vintages](https://github.com/NatikChhabra/Sounding-Like-Which-AI-)** · preprint, 2026
+
+How much of today's writing "sounds like AI", and *which* AI? Across 131,448 arXiv abstracts from 2015 to 2026, the share
+that a style classifier places on the AI side of the line rose from 9.2% before ChatGPT to 44.7% in 2026. The
+resemblance to each AI model rises and then falls, and the newer the model, the later it peaks, so studies that measure
+against a fixed set of models will see the trend "fade" too early.
+
+Run end to end on one home PC with 19 language models, and carried out with Claude as a fully disclosed AI research
+agent. [**Code, pipeline and paper&nbsp;→**](https://github.com/NatikChhabra/Sounding-Like-Which-AI-)
 
 ### 🔨 What I'm building
 
