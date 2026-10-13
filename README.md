@@ -22,10 +22,10 @@ Class 12 student in Bilaspur, India. Applying to read Law in the UK for 2027 ent
 
 How much of today's writing "sounds like AI", and *which* AI? Across 131,448 arXiv abstracts from 2015 to 2026, the share
 that a style classifier places on the AI side of the line rose from 9.2% before ChatGPT to 44.7% in 2026. The
-resemblance to each AI model rises and then falls, and the newer the model, the later it peaks, so studies that measure
+resemblance to most AI models rises and then falls, and newer models tend to peak later, so studies that measure
 against a fixed set of models will see the trend "fade" too early.
 
-Run end to end on one home PC with 19 language models, and carried out with Claude as a fully disclosed AI research
+Run on one home PC against 19 language models (12 of them open models run locally), and carried out with Claude as a fully disclosed AI research
 agent. [**Code, pipeline and paper&nbsp;→**](https://github.com/NatikChhabra/Sounding-Like-Which-AI-)
 
 ### 🔨 What I'm building
