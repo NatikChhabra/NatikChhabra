@@ -18,7 +18,7 @@ Class 12 student in Bilaspur, India. Applying to read Law for 2027 entry, and bu
 
 ### 📄 Research
 
-**[Sounding Like Which AI? Machine-Style Overlap of arXiv Abstracts with Language Models of Different Vintages](https://github.com/NatikChhabra/Sounding-Like-Which-AI)** · preprint, 2026
+**[Sounding Like Which AI? Machine-Style Overlap of arXiv Abstracts with Language Models of Different Vintages](https://github.com/NatikChhabra/Sounding-Like-Which-AI)** · preprint, 2026 · [DOI 10.5281/zenodo.23343987](https://doi.org/10.5281/zenodo.23343987)
 
 How much of today's writing "sounds like AI", and *which* AI? Across 131,448 arXiv abstracts from 2015 to 2026, the share
 that a style classifier places on the AI side of the line rose from 9.2% before ChatGPT to 44.7% in 2026. The
