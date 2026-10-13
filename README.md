@@ -12,7 +12,7 @@
 
 ## Hi, I'm Natik 👋
 
-Class 12 student in Bilaspur, India. Applying to read Law in the UK for 2027 entry, and building the tools that field is being rebuilt with.
+Class 12 student in Bilaspur, India. Applying to read Law for 2027 entry, and building the tools that field is being rebuilt with.
 
 🏆 **Round 1 qualifier, Meta PyTorch OpenEnv Hackathon × Scaler School of Technology** (April 2026): one of roughly 800 teams to reach the finale from over 31,000 registrations.
 
