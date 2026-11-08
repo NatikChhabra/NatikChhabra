@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Natik%20Chhabra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Law%20%C3%97%20Code%20%C3%97%20Systems&descAlignY=58&descSize=18" width="100%" alt="Natik Chhabra banner"/>
 
-<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=Research%3A+which+AI+does+writing+sound+like%3F+%F0%9F%93%84;RL+benchmarks+for+legal+operations+%E2%9A%96%EF%B8%8F;My+own+Claude+Code+skills+%2B+plugins+%F0%9F%A7%A9;Meta+PyTorch+OpenEnv+Hackathon+finalist+%F0%9F%8F%86;PWAs+%C2%B7+Android+%C2%B7+a+20%2B+service+homelab+%F0%9F%96%A5%EF%B8%8F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
+<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=YC+Gaps+%231%3A+RTI+Sahayak+%F0%9F%93%A8;Research%3A+which+AI+does+writing+sound+like%3F+%F0%9F%93%84;RL+benchmarks+for+legal+operations+%E2%9A%96%EF%B8%8F;My+own+Claude+Code+skills+%2B+plugins+%F0%9F%A7%A9;Meta+PyTorch+OpenEnv+Hackathon+finalist+%F0%9F%8F%86;PWAs+%C2%B7+Android+%C2%B7+a+20%2B+service+homelab+%F0%9F%96%A5%EF%B8%8F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-natikchhabra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natikchhabra/)
 [![LexCrisis demo](https://img.shields.io/badge/LexCrisis-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/LexCrisis)
@@ -30,8 +30,12 @@ agent. [**Code, pipeline and paper&nbsp;→**](https://github.com/NatikChhabra/S
 
 ### 🔨 What I'm building
 
+**YC Gaps** is a series where I build one small, real tool every 1–2 weeks for a gap that YC, Hacker News or Indian legal pain points to. Each one teaches me a new AI engineering skill.
+
+
 | Project | What it is | Stack |
 |---|---|---|
+| 📨&nbsp;**[RTI&nbsp;Sahayak](https://github.com/NatikChhabra/rti-sahayak)** | **YC Gaps #1.** Over 53,000 RTI complaints were returned in a single year for avoidable mistakes. Type what you want to know in English or Hindi, and Claude drafts a proper RTI. A rule checker then flags 15 common mistakes (each citing the Act), and a deadline calculator drafts your appeal. Tested on a held-out eval set. | Python · Claude API · Gradio |
 | ⚖️&nbsp;**[LexCrisis](https://github.com/NatikChhabra/LexCrisis)** | An OpenEnv reinforcement-learning benchmark that trains agents to run legal operations: conflict-safe client intake, privilege review under litigation pressure, and litigation incident command, all scored by deterministic verifiers. My Meta hackathon submission. [**Live&nbsp;demo&nbsp;→**](https://huggingface.co/spaces/Natik22may/LexCrisis) | Python · PyTorch · FastAPI · Docker |
 | 🧩&nbsp;**[claude-arsenal](https://github.com/NatikChhabra/claude-arsenal)** | Nine Claude Code plugins and 63 skills I use every day: a design standard with its own checkers, a YouTube creator pipeline, video editing, a board-exam study system, music, marketing and research publishing. | Python · Markdown · Claude Code |
 | 🎬&nbsp;**Video pipeline** (private) | The system behind a gaming channel I run: raw footage in, edited video, Shorts, captions and thumbnails out, with a QA gate that refuses any render that fails its checks. | Python · FFmpeg · Whisper |
