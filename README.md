@@ -16,7 +16,7 @@
 
 I'm in Class 12 in Bilaspur, India, applying to read Law for 2027 entry. Alongside that I'm teaching myself AI engineering the only way that sticks for me: by shipping real things. Each project takes on one skill I didn't have before, from deploying an LLM app to building evals to writing real-time audio code, and each one goes out with tests and an honest list of what it can't do yet.
 
-**Finalist, Meta PyTorch OpenEnv Hackathon with Scaler School of Technology** (April 2026): one of roughly 800 teams to reach the finale from over 31,000 registrations.
+**Round 1 qualifier, Meta PyTorch OpenEnv Hackathon with Scaler School of Technology** (April 2026): one of roughly 800 teams to reach the finale from over 31,000 registrations.
 
 ### Now building: Riffhouse
 
