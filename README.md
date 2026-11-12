@@ -5,7 +5,7 @@
 <a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=Riffhouse%3A+a+free+guitar+amp+for+your+PC;RTI+Sahayak%3A+write+and+check+RTI+applications;Can+AI+write+a+DPDP-compliant+privacy+notice%3F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-natikchhabra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natikchhabra/)
-[![Riffhouse](https://img.shields.io/badge/Riffhouse-Download%200.1.1-E8A33D?style=for-the-badge&logo=windows&logoColor=black)](https://natikchhabra.github.io/riffhouse/)
+[![Riffhouse](https://img.shields.io/badge/Riffhouse-Download%200.1.3-E8A33D?style=for-the-badge&logo=windows&logoColor=black)](https://natikchhabra.github.io/riffhouse/)
 [![RTI Sahayak demo](https://img.shields.io/badge/RTI%20Sahayak-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/rti-sahayak)
 [![DPDP Notice Check demo](https://img.shields.io/badge/DPDP%20Notice%20Check-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/dpdp-notice-check)
 [![Profile views](https://komarev.com/ghpvc/?username=NatikChhabra&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)](https://github.com/NatikChhabra)
@@ -22,11 +22,13 @@ I'm in Class 12 in Bilaspur, India, applying to read Law for 2027 entry. Alongsi
 
 <a href="https://natikchhabra.github.io/riffhouse/"><img src="https://raw.githubusercontent.com/NatikChhabra/riffhouse/main/docs/banner.png" width="100%" alt="Riffhouse, a free guitar amp and pedalboard"/></a>
 
+<a href="https://github.com/NatikChhabra/riffhouse"><img src="https://raw.githubusercontent.com/NatikChhabra/riffhouse/main/docs/screenshots/amp.png" width="49%" alt="The Riffhouse amp, pedals and cabinet"/></a> <a href="https://github.com/NatikChhabra/riffhouse"><img src="https://raw.githubusercontent.com/NatikChhabra/riffhouse/main/docs/screenshots/chords.png" width="49%" alt="Chords and tabs pasted from a website, ready to play along"/></a>
+
 I play guitar, and every good amp sim I tried wanted money, an audio interface or an afternoon of driver setup. So I built **[Riffhouse](https://natikchhabra.github.io/riffhouse/)**, a guitar amp and pedalboard for your computer that is free for good. Plug your guitar into whatever you have, even a laptop's mic jack, strum for twenty seconds while it sets itself up, and play.
 
-It has 11 amps, 9 cabinets, 29 pedals and 177 tones sorted by genre, and it loads neural amp captures (`.nam`). Every take is also saved as the clean guitar, so you can change the tone after you've played. There's a tuner, a looper, play-along that slows a song down without changing its pitch, and MIDI foot control. The sound engine is C++ on JUCE, adds about 0.1 ms of delay, and runs 5,400 automatic checks on every change. No account, no ads, no paid tier, ever. Music should be free.
+It has 11 amps, 9 cabinets, 30 pedals and 189 tones sorted by genre, and it loads neural amp captures (`.nam`). Every take is also saved as the clean guitar, so you can change the tone after you've played. There's a tuner, a looper, play-along that slows a song down without changing its pitch, and MIDI foot control. The sound engine is C++ on JUCE, adds about 0.1 ms of delay, and runs about 6,900 automatic checks on every change. No account, no ads, no paid tier, ever. Music should be free.
 
-Version 0.1.1, the first public release, is out now for Windows. If setup can't find your guitar you can pick the input yourself, and a Report a problem button sends me what went wrong. Mac is next. [**Download it free&nbsp;&rarr;**](https://natikchhabra.github.io/riffhouse/) &nbsp; [**Code on GitHub&nbsp;&rarr;**](https://github.com/NatikChhabra/riffhouse)
+Version 0.1.3 is out now for Windows. It has a new look that fits any screen, and the sound card sorts itself out: pick Automatic, ASIO or a Windows mode, and if an interface is stuck at the wrong setting, Riffhouse fixes it or says in plain words what to change. There's also a classic 60s wah, and you can paste chords or tabs from any website and play along. Mac is next. [**Download it free&nbsp;&rarr;**](https://natikchhabra.github.io/riffhouse/) &nbsp; [**Code on GitHub&nbsp;&rarr;**](https://github.com/NatikChhabra/riffhouse)
 
 ### Research
 
