@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Natik%20Chhabra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Law%20and%20AI%20engineering%2C%20one%20build%20at%20a%20time&descAlignY=58&descSize=18" width="100%" alt="Natik Chhabra banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Natik%20Chhabra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20front%20desk%20for%20Indian%20small%20businesses&descAlignY=58&descSize=18" width="100%" alt="Natik Chhabra banner"/>
 
-<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=Riffhouse%3A+a+free+guitar+amp+for+your+PC;RTI+Sahayak%3A+write+and+check+RTI+applications;Can+AI+write+a+DPDP-compliant+privacy+notice%3F;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
+<a href="https://github.com/NatikChhabra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=720&lines=Deskwise%3A+an+AI+front+desk+on+WhatsApp+and+Instagram;Answers%2C+bookings+and+follow-ups+for+salons+and+clinics;RTI+Sahayak%3A+write+and+check+RTI+applications;Access+to+justice+is+an+engineering+problem" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-natikchhabra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natikchhabra/)
-[![Riffhouse](https://img.shields.io/badge/Riffhouse-Download%200.1.3-E8A33D?style=for-the-badge&logo=windows&logoColor=black)](https://riffhouse.in/)
+[![Deskwise](https://img.shields.io/badge/Deskwise-on%20Instagram-E8A33D?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/deskwise.ai/)
+[![Riffhouse](https://img.shields.io/badge/Riffhouse-Download%200.1.7-E8A33D?style=for-the-badge&logo=windows&logoColor=black)](https://riffhouse.in/)
 [![RTI Sahayak demo](https://img.shields.io/badge/RTI%20Sahayak-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/rti-sahayak)
 [![DPDP Notice Check demo](https://img.shields.io/badge/DPDP%20Notice%20Check-Live%20demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Natik22may/dpdp-notice-check)
 [![Profile views](https://komarev.com/ghpvc/?username=NatikChhabra&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)](https://github.com/NatikChhabra)
@@ -14,21 +15,25 @@
 
 ## Hi, I'm Natik
 
-I'm a student in India. Alongside that I'm teaching myself AI engineering the only way that sticks for me: by shipping real things. Each project takes on one skill I didn't have before, from deploying an LLM app to building evals to writing real-time audio code, and each one goes out with tests and an honest list of what it can't do yet.
+I run **Deskwise**, an AI front desk for small businesses in India, and I'm a student applying to study Law (2027) with the plan of working in tech and AI law. I learn by shipping: each project takes on a skill I didn't have, and goes out with tests and an honest list of what it can't do yet.
 
 **Finalist, Meta PyTorch OpenEnv Hackathon with Scaler School of Technology** (April 2026): one of roughly 800 teams to reach the finale from over 31,000 registrations.
 
-### Riffhouse: out now
+### Deskwise: what I'm building now
+
+A salon owner gets forty "price?" and "slot kal milega?" messages a day and answers them between customers, or doesn't. Deskwise answers them for her, inside the WhatsApp and Instagram she already uses, and books the slot. She gets a simple page with who is coming and who asked. No app to install, no website needed.
+
+It starts with salons and clinics, in English and Hinglish, with a free 7-day pilot before any payment. The code is private because it handles customer messages. I am security-testing it myself first, using Defense Access in Anthropic's Cyber Verification Program, before any client data goes near it.
+
+[**See it on Instagram&nbsp;&rarr;**](https://www.instagram.com/deskwise.ai/)
+
+### Riffhouse: shipped, no longer maintained
 
 <a href="https://riffhouse.in/"><img src="https://raw.githubusercontent.com/NatikChhabra/riffhouse/main/docs/banner.png" width="100%" alt="Riffhouse, a free guitar amp and pedalboard"/></a>
 
 <a href="https://github.com/NatikChhabra/riffhouse"><img src="https://raw.githubusercontent.com/NatikChhabra/riffhouse/main/docs/screenshots/amp.png" width="49%" alt="The Riffhouse amp, pedals and cabinet"/></a> <a href="https://github.com/NatikChhabra/riffhouse"><img src="https://raw.githubusercontent.com/NatikChhabra/riffhouse/main/docs/screenshots/chords.png" width="49%" alt="Chords and tabs pasted from a website, ready to play along"/></a>
 
-I play guitar, and every good amp sim I tried wanted money, an audio interface or an afternoon of driver setup. So I built **[Riffhouse](https://riffhouse.in/)**, a guitar amp and pedalboard for your computer that is free for good. Plug your guitar into whatever you have, even a laptop's mic jack, strum for twenty seconds while it sets itself up, and play.
-
-It has 11 amps, 9 cabinets, 30 pedals and 189 tones sorted by genre, and it loads neural amp captures (`.nam`). Every take is also saved as the clean guitar, so you can change the tone after you've played. There's a tuner, a looper, play-along that slows a song down without changing its pitch, and MIDI foot control. The sound engine is C++ on JUCE, adds about 0.1 ms of delay, and runs about 6,900 automatic checks on every change. No account, no ads, no paid tier, ever. Music should be free.
-
-Version 0.1.3 is out now for Windows. It has a new look that fits any screen, and the sound card sorts itself out: pick Automatic, ASIO or a Windows mode, and if an interface is stuck at the wrong setting, Riffhouse fixes it or says in plain words what to change. There's also a classic 60s wah, and you can paste chords or tabs from any website and play along. Mac is next. [**Download it free&nbsp;&rarr;**](https://riffhouse.in/) &nbsp; [**Code on GitHub&nbsp;&rarr;**](https://github.com/NatikChhabra/riffhouse)
+I play guitar, and every good amp sim I tried wanted money or an audio interface, so I built **[Riffhouse](https://riffhouse.in/)**, a free guitar amp and pedalboard for Windows: 11 amps, 9 cabinets, 30 pedals, 189 tones, neural amp captures (`.nam`), a tuner, a looper and play-along. The C++/JUCE engine adds about 0.1 ms of delay and runs about 6,900 automatic checks on every change. Version 0.1.7 is the last release. I've stopped working on it to put my time into Deskwise, so it is no longer maintained, but it stays free and open source (AGPL) for anyone to use or fork. [**Download&nbsp;&rarr;**](https://riffhouse.in/) &nbsp; [**Code&nbsp;&rarr;**](https://github.com/NatikChhabra/riffhouse)
 
 ### Research
 
@@ -57,7 +62,7 @@ agent. [**Code, pipeline and paper&nbsp;&rarr;**](https://github.com/NatikChhabr
 
 ### What I care about
 
-The parts of the legal system that are really systems problems: cost, speed and access to justice. Legal help is too slow and too expensive for most of the people who need it, and that is as much an engineering problem as a legal one. The same idea runs through Riffhouse: good tools shouldn't depend on what you can pay.
+The parts of the legal system that are really systems problems: cost, speed and access to justice. Legal help is too slow and too expensive for most of the people who need it, and that is as much an engineering problem as a legal one. The same idea runs through Deskwise: a small shop should get the same quick replies a big company has.
 
 ### Stack
 
